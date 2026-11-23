@@ -82,13 +82,6 @@ TIME_ZONE = 'Asia/Dushanbe'
 USE_I18N = True
 USE_TZ = True
 
-git init
-git add .
-git commit -m "Сохтании моделхо ва коркадани JWT Register, Login, Logout view! URL ва SWAGGER"
-git branch -M main
-git remote add origin https://github.com/mukimovmuhammad/Book-Exam.git
-git push -u origin main
-
 STATIC_URL = 'static/'
 
 MAILERS = {
